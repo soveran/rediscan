@@ -12,7 +12,7 @@ block for each match.
 Usage
 -----
 
-You need to suply a Redis client. There are no restrictions
+You need to supply a Redis client. There are no restrictions
 regarding the type of the Redis client, but it must respond to
 `call` and the signature must be identical to that of
 [Redic][redic].
