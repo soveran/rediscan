@@ -38,7 +38,7 @@ end
 ```
 
 For the meaning for `match` and `count`, check the documentation
-for the [SCAN command][scan]
+of the [SCAN command][scan].
 
 ## Installation
 
